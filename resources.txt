@@ -16,6 +16,7 @@ daily.dev(extension & app)
 
 --------- CSS -----------------------
 freecodecamp
+https://100dayscss.com/
 google fonts
 dafonts
 1001 fonts

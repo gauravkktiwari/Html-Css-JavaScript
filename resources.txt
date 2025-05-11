@@ -47,6 +47,8 @@ Netlify:
       goto site config and change name
 
 animista -- for animations
+https://lottiefiles.com/
+
 https://github.com/emmabostian/developer-portfolios
 
 https://www.svgrepo.com/

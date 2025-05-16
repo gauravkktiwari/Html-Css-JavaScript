@@ -1,0 +1,23 @@
+Basics:
+----------
+   Introduction
+   variables(var,let,const)
+   Data types 
+    -primitve - number - math methods, string - methods,boolean,undefined,null
+    -non-primitive - functions,arrays,objects
+   operators
+   control statements (if and switch) and loops (while,dowhile,for)
+   functions
+   arrays
+   objects
+DOM
+---
+   dom selection,manipulation,creation,events
+ADvanced
+-------
+  asynchronous js, fetch api,
+  promises,
+  async await
+  es6
+  BOM, libraries
+  Main Project
